@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunohenri-g)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,visualstudio,dotnet,cs,docker,linux,mongodb,postgres,py,rabbitmq,rust)](https://skillicons.dev)
